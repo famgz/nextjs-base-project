@@ -4,6 +4,7 @@ After clone instructions:
 - delete or empty this file
 - delete .git folder and init your own
 - run `npm update`
+- run `npx auth secret`
 
 
 ## NextJS
